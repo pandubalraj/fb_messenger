@@ -4,7 +4,7 @@ const Bot = require('messenger-bot')
 
 let bot = new Bot({
   token: 'EAALHWtyWid4BANjovLyfqa5ojLZBJqyFGiNc1L22HrPUfYRsgaWlLtZBD7lJjaskhaTQZAnFZBSZA6ZB6Et8xCJMtVfwHLcCdC9InTBSrDQY7ZBRhBVG4enIOqbqazZCqWlVlAqAuk5msrVrL9c7v1h5vwS5jmaCV3BWynVtDuLjtHuLcCZBRWdKP',
-  verify: ''
+  verify: 'VERIFY_TOKEN'
 })
 
 bot.on('error', (err) => {
