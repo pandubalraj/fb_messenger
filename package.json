@@ -13,6 +13,7 @@
     "messenger-bot": "^2.4.0",
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
-    "superagent": "^1.8.3"
+    "superagent": "^1.8.3",
+    "request" : "*"
   }
 }
